@@ -6,7 +6,7 @@
         //this is our main function, it does main stuff
         static void Main(string[] args)
         {
-
+            //common Variable types
             int newInt = 1; //whole number integers
             float newFloat = 42.0f; //float has decimals, and isnt as accurate as double
             double newDub = 80.00D; // double is more precise but can be slower,
